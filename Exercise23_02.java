@@ -19,6 +19,7 @@
  * HINT 3 - Comparator version:
  *   The comparator must be passed through to the recursive mergeSort calls
  *   AND to the merge helper method.
+ * Author: Rahul Murgai-Diaz
  */
 
 import java.util.Arrays;
